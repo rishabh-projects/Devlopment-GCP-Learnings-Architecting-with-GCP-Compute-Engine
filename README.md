@@ -1,2 +1,2 @@
-# Cloud-Native-Dev-AWS-GCP-Azure-Architecting-with-Google-Compute-Engine
-Cloud Native Dev AWS GCP Azure Architecting with Google Compute Engine
+## DevOps GCP Learnings
+## Architecting with GCP Compute Engine
